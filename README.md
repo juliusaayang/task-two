@@ -4,7 +4,7 @@ This is a code written in Java programming language that asks for your name, and
 A simple user input task
 
 
-https://zuri.team
+https://zuri.team,
 https://hng.tech
 
 
